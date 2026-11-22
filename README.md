@@ -20,7 +20,11 @@ entrant to upload — the agent cannot upload to the entrant's YouTube channel.
 
 ## The video
 
-Published as a public YouTube Short. Its description carries, word for word:
+Published as a public YouTube Short on 2026-11-22:
+
+https://www.youtube.com/shorts/4HWJ-WnWw7E
+
+Title: "GTA 6 — Vice City Nights". Its description carries, word for word:
 
 > Made by my AI agent for a $500 bounty on make.fun, where you can earn
 > money making clips with AI: https://make.fun/bounty/gta6-clipper-01
